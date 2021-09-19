@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raph</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working with Koodoo [an awesome FinTech company revolutionising the Mortgage industry](koodoo.io)
+- 🔭 I’m currently working with  [Koodoo](https://koodoo.io), an awesome FinTech company revolutionising the Mortgage industry.
 
-- 📫 How to reach me **Linkedin**
+- 📄 Know about my experiences on [LinkedIn](https://uk.linkedin.com/in/raphaelzenou)
 
-- 📄 Know about my experiences [https://uk.linkedin.com/in/raphaelzenou](https://uk.linkedin.com/in/raphaelzenou)
-
-- ⚡ Fun fact **I run a bit too much when I am not coding or drinking coffee**
+- ⚡ Fun fact ** my dog is a Lion hunter **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
